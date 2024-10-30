@@ -1,7 +1,7 @@
 # 20th_century
 ![2208060-HSC00001-6](https://github.com/user-attachments/assets/bc1e6ca0-d023-4cc5-880d-8f8b8d1a2836)
 
- ### CONTENT
+ ## CONTENT
  
 For this project, imagine that the Institute for Public Policy has employed you to analyze and create a visualization as part of a larger initiative it’s working on. In this scenario, the institute believes that past events heavily influence the current geopolitical climate. To delve deeper into this hypothesis, a clearer understanding of the historical relationships between countries in the twentieth century is needed Suitable results can be achieved by looking to **major global events throughout the twentieth century** . 
 
