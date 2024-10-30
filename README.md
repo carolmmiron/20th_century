@@ -13,11 +13,13 @@ To be effective, your visualization must highlight these past relationships. Thi
  For this project, you’ll **scrape data from a web page (using Wikipedia)**, which will be the basis for the visual analysis in the report. As you’ll be looking for textual content, the data analysis will also involve text mining. 
  Once you have the data ready for your analysis, you’ll apply a basic natural language processing (NLP) algorithm to the collected data to extract a relationships mapfromit. As a final step, you’ll create a network analysis visualization for all the content you scraped and preprocessed.
  
+ 
 ### Data Sourcing Criteria
 
  ● Scrapealist of countries from a web page;
  
  ● Scrapeatwentieth-century history and politics page from Wikipedia.
+ 
 
 ### Analysis Criteria
  
@@ -26,12 +28,14 @@ To be effective, your visualization must highlight these past relationships. Thi
  ● Determinethe degree, closeness, and betweenness centrality of the countries in your
  graph.
  
+ 
 ### Visualization Criteria
  
  ● Createadynamicnetwork chart showing the interactions between the countries.
  
  ● Thechartclearly distinguishes between different relationships and communities in a
  network.
+ 
  
 ### Success Factors
  
