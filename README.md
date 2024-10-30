@@ -1,4 +1,5 @@
 # 20th_century
+![2208060-HSC00001-6](https://github.com/user-attachments/assets/bc1e6ca0-d023-4cc5-880d-8f8b8d1a2836)
 
  ### CONTENT
  
@@ -15,18 +16,20 @@ To be effective, your visualization must highlight these past relationships. Thi
 ### Data Sourcing Criteria
 
  ● Scrapealist of countries from a web page;
+ 
  ● Scrapeatwentieth-century history and politics page from Wikipedia.
 
 ### Analysis Criteria
  
- ● UseNLPtoanalyzethescraped content, compile a list of the countries involved in major
- twentieth-century events, and document how they’re connected.
+ ● UseNLPtoanalyzethescraped content, compile a list of the countries involved in majortwentieth-century events, and document how they’re connected.
+ 
  ● Determinethe degree, closeness, and betweenness centrality of the countries in your
  graph.
  
 ### Visualization Criteria
  
  ● Createadynamicnetwork chart showing the interactions between the countries.
+ 
  ● Thechartclearly distinguishes between different relationships and communities in a
  network.
  
