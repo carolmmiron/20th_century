@@ -35,5 +35,4 @@ To be effective, your visualization must highlight these past relationships. Thi
  
 ### Success Factors
  
- ● Presentapolished, dynamic chart that provides an overview of the interrelations between world powers in the twentieth century. 
- Your visualization should be clear so that your client can understand the relationships between different countries during historical milestones, as the final report will be available for viewing by the public
+ ● Presentapolished, dynamic chart that provides an overview of the interrelations between world powers in the twentieth century. Your visualization should be clear so that your client can understand the relationships between different countries during historical milestones, as the final report will be available for viewing by the public
