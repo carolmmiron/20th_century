@@ -1,4 +1,4 @@
-# 20th_century
+
 ![2208060-HSC00001-6](https://github.com/user-attachments/assets/bc1e6ca0-d023-4cc5-880d-8f8b8d1a2836)
 
  ## CONTENT
