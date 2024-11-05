@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 # 20th_century
 This is an exercise for achievement 1.2 on the Data Specialization module
 
 ## Heading 2
 You can do this!!!!
-=======
 
 ![2208060-HSC00001-6](https://github.com/user-attachments/assets/bc1e6ca0-d023-4cc5-880d-8f8b8d1a2836)
 
@@ -47,4 +45,3 @@ To be effective, your visualization must highlight these past relationships. Thi
 ### Success Factors
  
  ● Presentapolished, dynamic chart that provides an overview of the interrelations between world powers in the twentieth century. Your visualization should be clear so that your client can understand the relationships between different countries during historical milestones, as the final report will be available for viewing by the public
->>>>>>> 1a1ceaeffd14b05f0b512b11d2acfa0a8ddf8134
