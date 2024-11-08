@@ -1,9 +1,3 @@
-# 20th_century
-This is an exercise for achievement 1.2 on the Data Specialization module
-
-## Heading 2
-You can do this!!!!
-
 ![2208060-HSC00001-6](https://github.com/user-attachments/assets/bc1e6ca0-d023-4cc5-880d-8f8b8d1a2836)
 
  ## CONTENT
